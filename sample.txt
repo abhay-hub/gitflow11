@@ -1,1 +1,5 @@
 This is Master Comit
+This is develop commit
+this is f1 commit
+this is f2 commit
+>>>>>>> develop
